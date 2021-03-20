@@ -35,6 +35,4 @@ function sumZero2 (arr){
         }
     }
 }
-
-
 console.log(sumZero2(arr))
