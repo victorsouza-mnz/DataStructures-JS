@@ -44,3 +44,6 @@ function maxSumOfN2 (arr, num){
 }
 
 console.log(maxSumOfN2(array, m))
+
+
+
