@@ -42,3 +42,5 @@ function collectOdd2 (arr){
 }
 
 console.log(collectOdd2(arr))
+
+
